@@ -5,7 +5,8 @@ The project was implemented as a test assignment for an internship as a Web prog
 1. Book
 2. Author
 3. Genre
-The project has configured crud actions and display of books by category
+
+The project has configured CRUD actions and display of books by category
 
 ## Tools
 
