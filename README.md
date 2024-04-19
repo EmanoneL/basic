@@ -1,6 +1,11 @@
 # basic
 
 Project is created with standart basic template from yii2 framework. 
+The project was implemented as a test assignment for an internship as a Web programmer at the League of Robots company. It is a simple website for a book publishing house. Implements 3 classes:
+1. Book
+2. Author
+3. Genre
+The project has configured crud actions and display of books by category
 
 ## Tools
 
